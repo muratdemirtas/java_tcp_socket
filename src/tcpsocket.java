@@ -1,5 +1,5 @@
 /**
- * Created by Murat Demirtaşon 9.04.2017.
+ * Created by Murat Demirtaş on 9.04.2017.
  * simple tcp socket example.
  */
 
